@@ -1,15 +1,3 @@
-
-Since you are the owner of **@TechMateJR**, I have rebuilt the website with a specific focus on **Your Brand**.
-
-This is no longer just a generic clone; it is a **Personal Brand Dashboard**. It features:
-*   **Channel Branding:** Custom "TechMateJR" color palette (Tech Blue & Cyber Cyan).
-*   **Channel Overview Section:** An "About the Channel" hero area.
-*   **Content Categorization:** Tabs specifically for your content (e.g., "Latest Uploads," "Tutorials," "Reviews").
-*   **Interactive Community Tab:** Simulated comments and polls specific to @TechMateJR.
-
-Here is the complete, single-file code:
-
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -591,3 +579,5 @@ Here is the complete, single-file code:
                     <button class="search-btn" onclick="simulateSearch()"><i class="fa-solid fa-magnifying-glass"></i></button>
                 </div>
                 <button class="mic-btn"><i class="fa-solid fa-microphone"></
+</body>
+</html>
