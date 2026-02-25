@@ -241,8 +241,8 @@
     <!-- 🔧 INTERACTIVE JAVASCRIPT -->
     <script>
         // 🛠️ CONFIGURATION: REPLACE THESE
-        const YOUTUBE_API_KEY = 'YOUR_YOUTUBE_API_KEY_HERE'; // 🔑 Paste your API key here
-        const CHANNEL_ID = 'YOUR_YOUTUBE_CHANNEL_ID';       // 📝 Format: UCxxxxxxxxxxxxxxxxxxxx
+        const YOUTUBE_API_KEY = 'AIzaSyDoXkvTzokVqlTgreKIWVOPQj4hMmm_EpE'; // 🔑 Paste your API key here
+        const CHANNEL_ID = 'UCEU9BYiorMhgZgb9WicLTHA';       // 📝 Format: UCxxxxxxxxxxxxxxxxxxxx
 
         // 🔔 SUBSCRIBE BUTTON BEHAVIOR (Customize this!)
         document.getElementById('subscribeBtn').addEventListener('click', function() {
